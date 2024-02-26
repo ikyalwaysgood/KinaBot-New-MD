@@ -1,3 +1,8 @@
+<p align="center">
+<img src="https://btch.pages.dev/file/9e4162d4034241953fdfb.jpg" alt="BOT WHATSAPP" width="400"/>
+
+
+## <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> Kιɳα Bσƚ | Iky𝖔𝖋𝖋𝖎𝖈𝖎𝖆𝖑ཽ
 
 #### FITUR UPDATE ⚠️
 | Updated | V1 |
@@ -39,9 +44,9 @@
 
 ## `SETTING`
 
-- Owner Number [Here](https://github.com/nvhitori/Hitori-MD/blob/main/config.js)
-- Owner Name [Here](https://github.com/nvhitori/Hitori-MD/blob/main/config.js)
-- Bot Name [Here](https://github.com/nvhitori/Hitori-MD/blob/main/config.js)
+- Owner Number [Here](https://github.com/ikyalwaysgood/KinaBot-New-MD/blob/main/config.js)
+- Owner Name [Here](https://github.com/ikyalwaysgood/KinaBot-New-MD/blob/main/config.js)
+- Bot Name [Here](https://github.com/ikyalwaysgood/KinaBot-New-MD/blob/main/config.js)
 ---------
 ## `GET SESSION`
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@nvhitori/Hitori-Multi-Device-Session?v=1)
@@ -62,8 +67,8 @@ $ pkg install git -y
 $ pkg install nodejs -y
 $ pkg install ffmpeg -y
 $ pkg install imagemagick -y
-$ git clone https://github.com/nvhitori/Hitori-MD.git
-$ cd Hitori-MD
+$ git clone https://github.com/ikyalwaysgood/KinaBot-New-MD.git
+$ cd KinaBot-New-MD
 $ npm i 
 ```
 If error try using yarn instead of npm, see [here](https://github.com/nvhitori/Hitori-MD#if-npm-install-failed--try--using-yarn-instead-of-npm)
@@ -99,14 +104,14 @@ apt install wget curl git ffmpeg imagemagick build-essential libcairo2-dev libpa
 
 ---------
 
-[ INSTALLING NODEJS & HITORI-MD]
+[ INSTALLING NODEJS & KinaBot-New-MD]
 
 ```bash
 ubuntu
 curl -fsSL https://deb.nodesource.com/setup_current.x | sudo -E bash -
 apt install -y nodejs gcc g++ make
-git clone https://github.com/nvhitori/Hitori-MD/
-cd Hitori-MD
+git clone https://github.com/ikyalwaysgood/KinaBot-New-MD/
+cd KinaBot-New-MD
 npm install
 npm update
 ```
@@ -136,69 +141,4 @@ node .
 ```
 
 ---------
-
-## ```Arguments node . [--options] [<session name>]```
-
-## `--self`
-* Activate self mode (Ignores other)
-
-## `--pconly`
-* If that chat not from private bot, bot will ignore
-
-## `--gconly`
-* If that chat not from group, bot will ignore
-
-## `--swonly`
-* If that chat not from status, bot will ignore
-
-## `--prefix <prefixes>`
-* `prefixes` are seperated by each character
-Set prefix
-
-## `--server`
-* Used for [heroku](https://heroku.com/) or scan through website
-
-## `--restrict`
-* Enables restricted plugins (which can lead your number to be **banned** if used too often)
-* Group Administration `add, kick`
-
-## `--img`
-* Enable image inspector through terminal
-
-## `--autoread`
-* If enabled, all incoming messages will be marked as read
-
-## `--nyimak`
-* No bot, just print received messages and add users to database
-
-## `--test`
-* **Development** Testing Mode
-
----------
-
-## ```How To Customise Message Display```
-```js
-// Syntax
-conn.sendButton(
-      jid, // jid of the user to send the message to
-      text, // text to send
-      foooter, // footer to send
-      buffer, // buffer to send (optional), if you want to send button image, location, etc
-      buttons, // buttons to send, example [['text1', 'id1'], ['text2', 'id2']]
-      quoted, // quoted message to send (optional)
-      options // options to send, example { asLocation: true }
-)
-
-// example 
-conn.sendButton(m.chat, 'Hello world!', '@BochilGaming', null, [
-      ['Hello', 'hello'], ['Bye', 'bye']
-])
-// example button location
-conn.sendButton(m.chat, 'Hello world!', '@BochilGaming', 'https://github.com/BochilGaming', 
-      [['Hello', 'hello'], ['Bye', 'bye']], 
-      null, { asLocation: true }
-)
-```
----------
-
 
