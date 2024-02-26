@@ -46,23 +46,23 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // Wajib diisi ya kak!, kalo ga punya biarin aja, biar ada creditsnya :v
-global.sig = 'https://www.instagram.com/nvkenn_'
-global.sgh = 'https://github.com/nvhitori'
+global.sig = 'https://www.instagram.com/iky_alwaysgood'
+global.sgh = '!'
 global.sgc = 'https://chat.whatsapp.com/KL2YTdMq2np6QIhas42RCa'
 global.sdc = " "
-global.snh = 'https://xhitori.my.id'
+global.snh = '!'
 
 /*============== PAYMENT ==============*/
-global.pdana = '082125276167'
-global.povo = '_'
-global.pgopay = '_'
-global.ppulsa = '082125276167'
-global.ppulsa2 = '082125276167'
-global.psaweria = 'https://saweria.co/nvkenn'
+global.pdana = '085794908894'
+global.povo = '!'
+global.pgopay = '085794908894'
+global.ppulsa = '083164864536'
+global.ppulsa2 = '085794908894'
+global.psaweria = '!'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6281323870860'
-global.nomorown = '6282125276167'
+global.nomorbot = '_'
+global.nomorown = '6285794908894'
 global.namebot = 'XHITORI'
 global.nameown = 'V4LL'
 
