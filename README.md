@@ -1,38 +1,4 @@
-<p align="center">
-    <img src="https://telegra.ph/file/9954da2569835fb0c7871.jpg">
-</p>
-<h1 align="center">H1TORI</h1>
-<p align="center">
-  <a href="https://github.com/nvhitori"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=HITORI+Multi+Device;Base+ori+by+BochilGaming;Re-code+By+V4LL;Give+star+and+forks+this+Repo+:D;Follow+My+Github" alt="UwU">
-</p>
 
-<p align="center">
- <a href="#"><img title="Hitori Multi Device" src="https://img.shields.io/badge/HITORI-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
-</p>
-<p align="center">
-<a href="https://instagram.com/nvkenn_"><img title="Author" src="https://img.shields.io/badge/AUTHOR-V4LL-blue.svg?style=for-the-badge&logo=github"></a>
-</p>
-<p align="center">
-<a href="https://www.codefactor.io/repository/github/nvhitori/Hitori-MD"><img src="https://www.codefactor.io/repository/github/nvhitori/Hitori-MD/badge" alt="CodeFactor" /></a>
-</p>
-<p align="center">
-<a href="https://github.com/nvhitori/followers"><img title="Followers" src="https://img.shields.io/github/followers/nvhitori?color=blue&style=flat-square"></a>
-<a href="https://github.com/nvhitori/Hitori-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/nvhitori/Hitori-MD?color=red&style=flat-square"></a>
-<a href="https://github.com/nvhitori/Hitori-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/nvhitori/Hitori-MD?color=red&style=flat-square"></a>
-<a href="https://github.com/nvhitori/Hitori-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/nvhitori/Hitori-MD?label=Watchers&color=blue&style=flat-square"></a>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnvhitori%2FHitori-MD&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
-  </a>
-</div>
-<div align="center">
-  <p>Don't forget to click ⭐️ and fork this repository</p>
-</div>
-
----
-## ```Whatsapp``` <img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Whatsapp.svg" />
-[![BOT WHATSAPP](https://img.shields.io/badge/WhatsApp%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6281323870860) 
-[![ONWER](https://img.shields.io/badge/Owner%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6282125276167) 
-[![GROUP OFFICIAL](https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/KL2YTdMq2np6QIhas42RCa) 
----------
 #### FITUR UPDATE ⚠️
 | Updated | V1 |
 |--------|--------|
@@ -155,8 +121,8 @@ npm update
 * Download And Install ImageMagick [`Click Here`](https://imagemagick.org/script/download.php)
 
 ```bash
-git clone https://github.com/nvhitori/Hitori-MD.git
-cd Hitori-MD
+git clone https://github.com/ikyalwaysgood/KinaBot-New-MD.git
+cd KinaBot-New-MD
 npm install
 npm update
 ```
@@ -235,33 +201,4 @@ conn.sendButton(m.chat, 'Hello world!', '@BochilGaming', 'https://github.com/Boc
 ```
 ---------
 
-### 📮 S&K
-1. Jangan diperjual belikan Script ini
-2. Sebelum pakai jangan lupa kasih star
-3. Follow Github !
-4. Jangan salah gunakan script ini!
-5. Reupload? izin dulu lol
----------
 
-
-## ```Thanks to ✨```
-* [`Allah SWT`]
-* [`My parents`](https://github.com/nvhitori)
-* [`All Friends`](https://github.com/nvhitori)
-* [`All Contributors`](https://github.com/nvhitori)
-* [`All Creator Bot`](https://github.com/nvhitori)
-* [`Adiwajshing`](https://github.com/adiwajshing/Baileys)
-* [`Nurutomo`](https://github.com/nurutomi)
-* [`BochilGaming`](https://github.com/bochilgaming)
-* [`KannaChan`](http://github.com/kannachann)
-* [`The.Sad.Boy01`](https://github.com/Kangsad01)
-* [`AmirulDev20`](https://github.com/amiruldev20)
-* [`Rasel Comel`](https://github.com/raselcomel)
-* [`Rominaru`](https://github.com/rominaru)
-* [`GOPALA5U`](http://github.com/VarrelKun)
-
-## ```Recode By 🐾```
-[![V4LL](https://github.com/nvhitori.png?size=100)](http://github.com/nvhitori)
-
-# ```Contributor 🔭```
-* [`GOPALA5U`](http://github.com/VarrelKun)
